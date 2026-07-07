@@ -17,3 +17,7 @@
 
 ## Disclaimer
 This project is for educational purposes only. Do not use this software for malicious purposes.
+
+## Images 
+![Settings](settings.png) 
+![Process List](proc.png)
